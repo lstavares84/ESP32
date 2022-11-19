@@ -67,7 +67,7 @@ def turn_off(): #In this function, all leds will be turned off backwards of turn
     time.sleep(rest_time)
     led4.off()
     time.sleep(rest_time)
-    led3.on()
+    led3.off()
     time.sleep(rest_time)
     led2.off()
     time.sleep(rest_time)
